@@ -1,7 +1,7 @@
 // SELECTION SORT
 
 #include <stdio.h>
-
+//dhgfdgf
 void take(int *a, int n)
 {
     for (int i = 0; i < n; i++)
